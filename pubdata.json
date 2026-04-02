@@ -1,1 +1,15 @@
 
+{
+  "publicites": [
+    {
+      "img": "shekinah.png",
+      "titre": "Shekinah Worship Choir",
+      "desc": "Une application de musiques uniquement pour vous",
+      "annonceur": "Shekinah Worship Choir | EFGV",
+      "plan": "all",
+      "lien": "https://netiqui.blogspot.com/2026/03/shekinah-worship-choir.html",
+      "debut": "2026-01-01",
+      "fin": "2026-05-07"
+    }
+  ]
+}
